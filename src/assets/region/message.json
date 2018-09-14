@@ -1,0 +1,3468 @@
+[{
+    "label": "宁南县",
+    "value": 101,
+    "children": [{
+        "label": "披砂镇社区戒毒社区戒毒（康复）工作站",
+        "value": 102,
+        "children": [{
+            "label": "披砂镇",
+            "value": 103
+        }, {
+            "label": "景星镇",
+            "value": 104
+        }, {
+            "label": "俱乐乡",
+            "value": 105
+        }]
+    }, {
+        "label": "白鹤滩镇社区戒毒社区戒毒（康复）工作站",
+        "value": 106,
+        "children": [{
+            "label": "跑马镇",
+            "value": 107
+        }, {
+            "label": "白鹤滩镇",
+            "value": 108
+        }, {
+            "label": "倮格乡",
+            "value": 109
+        }, {
+            "label": "骑骡沟镇",
+            "value": 110
+        }]
+    }, {
+        "label": "竹寿镇社区戒毒社区戒毒（康复）工作站",
+        "value": 111,
+        "children": [{
+            "label": "竹寿镇",
+            "value": 112
+        }, {
+            "label": "新华乡",
+            "value": 113
+        }, {
+            "label": "梁子乡",
+            "value": 114
+        }, {
+            "label": "石梨乡",
+            "value": 115
+        }, {
+            "label": "松林乡",
+            "value": 116
+        }, {
+            "label": "杉树乡",
+            "value": 117
+        }]
+    }, {
+        "label": "葫芦口镇社区戒毒社区戒毒（康复）工作站",
+        "value": 118,
+        "children": [{
+            "label": "华弹镇",
+            "value": 119
+        }, {
+            "label": "葫芦口镇",
+            "value": 120
+        }, {
+            "label": "红星乡",
+            "value": 121
+        }, {
+            "label": "西瑶镇",
+            "value": 122
+        }, {
+            "label": "大同镇",
+            "value": 123
+        }]
+    }, {
+        "label": "松新镇社区戒毒社区戒毒（康复）工作站",
+        "value": 124,
+        "children": [{
+            "label": "六铁乡",
+            "value": 125
+        }, {
+            "label": "松新镇",
+            "value": 126
+        }, {
+            "label": "新村乡",
+            "value": 127
+        }, {
+            "label": "幸福镇",
+            "value": 128
+        }, {
+            "label": "海子乡",
+            "value": 129
+        }, {
+            "label": "新建乡",
+            "value": 130
+        }, {
+            "label": "稻谷乡",
+            "value": 131
+        }]
+    }]
+}, {
+    "label": "布拖县",
+    "value": 132,
+    "children": [{
+        "label": "特木里镇社区戒毒（康复）站",
+        "value": 133,
+        "children": [{
+            "label": "特木里镇",
+            "value": 134
+        }]
+    }, {
+        "label": "拖觉镇社区戒毒（康复）站",
+        "value": 135,
+        "children": [{
+            "label": "拖觉镇",
+            "value": 136
+        }]
+    }, {
+        "label": "地洛乡社区戒毒（康复）站",
+        "value": 137,
+        "children": [{
+            "label": "地洛乡",
+            "value": 138
+        }]
+    }, {
+        "label": "四棵乡社区戒毒（康复）站",
+        "value": 139,
+        "children": [{
+            "label": "四棵乡",
+            "value": 140
+        }]
+    }, {
+        "label": "乐安乡社区戒毒（康复）站",
+        "value": 141,
+        "children": [{
+            "label": "乐安乡",
+            "value": 142
+        }]
+    }, {
+        "label": "火烈乡社区戒毒（康复）站",
+        "value": 143,
+        "children": [{
+            "label": "火烈乡",
+            "value": 144
+        }]
+    }, {
+        "label": "木尔乡社区戒毒（康复）站",
+        "value": 145,
+        "children": [{
+            "label": "木尔乡",
+            "value": 146
+        }]
+    }, {
+        "label": "九都乡社区戒毒（康复）站",
+        "value": 147,
+        "children": [{
+            "label": "九都乡",
+            "value": 148
+        }]
+    }, {
+        "label": "补尔乡社区戒毒（康复）站",
+        "value": 149,
+        "children": [{
+            "label": "补尔乡",
+            "value": 150
+        }]
+    }, {
+        "label": "补洛乡镇社区戒毒（康复）站",
+        "value": 151,
+        "children": [{
+            "label": "补洛乡",
+            "value": 152
+        }]
+    }, {
+        "label": "牛角湾乡社区戒毒（康复）站",
+        "value": 153,
+        "children": [{
+            "label": "牛角湾乡",
+            "value": 154
+        }]
+    }, {
+        "label": "基只乡社区戒毒（康复）站",
+        "value": 155,
+        "children": [{
+            "label": "基只乡",
+            "value": 156
+        }]
+    }, {
+        "label": "拉达乡社区戒毒（康复）站",
+        "value": 157,
+        "children": [{
+            "label": "拉达乡",
+            "value": 158
+        }]
+    }, {
+        "label": "俄里坪乡社区戒毒（康复）站",
+        "value": 159,
+        "children": [{
+            "label": "俄里坪乡",
+            "value": 160
+        }]
+    }, {
+        "label": "采哈乡社区戒毒（康复）站",
+        "value": 161,
+        "children": [{
+            "label": "采哈乡",
+            "value": 162
+        }]
+    }, {
+        "label": "联补乡社区戒毒（康复）站",
+        "value": 163,
+        "children": [{
+            "label": "联补乡",
+            "value": 164
+        }]
+    }, {
+        "label": "沙洛乡社区戒毒（康复）站",
+        "value": 165,
+        "children": [{
+            "label": "沙洛乡",
+            "value": 166
+        }]
+    }, {
+        "label": "包谷坪乡社区戒毒（康复）站",
+        "value": 167,
+        "children": [{
+            "label": "包谷坪乡",
+            "value": 168
+        }]
+    }, {
+        "label": "合井乡社区戒毒（康复）站",
+        "value": 169,
+        "children": [{
+            "label": "合井乡",
+            "value": 170
+        }]
+    }, {
+        "label": "拉果乡社区戒毒（康复）站",
+        "value": 171,
+        "children": [{
+            "label": "拉果乡",
+            "value": 172
+        }]
+    }, {
+        "label": "美撒乡社区戒毒（康复）站",
+        "value": 173,
+        "children": [{
+            "label": "美撒乡",
+            "value": 174
+        }]
+    }, {
+        "label": "委只洛乡社区戒毒（康复）站",
+        "value": 175,
+        "children": [{
+            "label": "委只洛乡",
+            "value": 176
+        }]
+    }, {
+        "label": "瓦都乡社区戒毒（康复）站",
+        "value": 177,
+        "children": [{
+            "label": "瓦都乡",
+            "value": 178
+        }]
+    }, {
+        "label": "乌依乡社区戒毒（康复）站",
+        "value": 179,
+        "children": [{
+            "label": "乌依乡",
+            "value": 180
+        }]
+    }, {
+        "label": "龙潭镇社区戒毒（康复）站",
+        "value": 181,
+        "children": [{
+            "label": "龙潭镇",
+            "value": 182
+        }]
+    }, {
+        "label": "罗家坪乡社区戒毒（康复）站",
+        "value": 183,
+        "children": [{
+            "label": "罗家坪乡",
+            "value": 184
+        }]
+    }, {
+        "label": "洛古乡社区戒毒（康复）站",
+        "value": 185,
+        "children": [{
+            "label": "洛古乡",
+            "value": 186
+        }]
+    }, {
+        "label": "觉撒乡社区戒毒（康复）站",
+        "value": 187,
+        "children": [{
+            "label": "觉撒乡",
+            "value": 188
+        }]
+    }, {
+        "label": "乌科乡社区戒毒（康复）站",
+        "value": 189,
+        "children": [{
+            "label": "乌科乡",
+            "value": 190
+        }]
+    }, {
+        "label": "浪珠乡社区戒毒（康复）站",
+        "value": 191,
+        "children": [{
+            "label": "浪珠乡",
+            "value": 192
+        }]
+    }, {
+        "label": "东城社区戒毒（康复）站",
+        "value": 193,
+        "children": [{
+            "label": "东城街道办事处",
+            "value": 194
+        }]
+    }, {
+        "label": "西城社区戒毒（康复）站",
+        "value": 195,
+        "children": [{
+            "label": "西城街道办事处",
+            "value": 196
+        }]
+    }]
+}, {
+    "label": "冕宁县",
+    "value": 197,
+    "children": [{
+        "label": "城厢镇社区戒毒（康复）工作站",
+        "value": 198,
+        "children": [{
+            "label": "城厢镇",
+            "value": 199
+        }]
+    }, {
+        "label": "森荣乡社区戒毒（康复）工作站",
+        "value": 200,
+        "children": [{
+            "label": "森荣乡",
+            "value": 201
+        }]
+    }, {
+        "label": "大桥镇社区戒毒（康复）工作站",
+        "value": 202,
+        "children": [{
+            "label": "大桥镇",
+            "value": 203
+        }]
+    }, {
+        "label": "彝海镇社区戒毒（康复）工作站",
+        "value": 204,
+        "children": [{
+            "label": "彝海镇",
+            "value": 205
+        }]
+    }, {
+        "label": "曹古乡社区戒毒（康复）工作站",
+        "value": 206,
+        "children": [{
+            "label": "曹古乡",
+            "value": 207
+        }]
+    }, {
+        "label": "拖乌乡社区戒毒（康复）工作站",
+        "value": 208,
+        "children": [{
+            "label": "拖乌乡",
+            "value": 209
+        }]
+    }, {
+        "label": "宏模镇社区戒毒（康复）工作站",
+        "value": 210,
+        "children": [{
+            "label": "宏模镇",
+            "value": 211
+        }]
+    }, {
+        "label": "石龙镇社区戒毒（康复）工作站",
+        "value": 212,
+        "children": [{
+            "label": "石龙镇",
+            "value": 213
+        }]
+    }, {
+        "label": "后山镇社区戒毒（康复）工作站",
+        "value": 214,
+        "children": [{
+            "label": "后山镇",
+            "value": 215
+        }]
+    }, {
+        "label": "泸沽镇社区戒毒（康复）工作站",
+        "value": 216,
+        "children": [{
+            "label": "泸沽镇",
+            "value": 217
+        }]
+    }, {
+        "label": "先锋乡社区戒毒（康复）工作站",
+        "value": 218,
+        "children": [{
+            "label": "先锋乡",
+            "value": 219
+        }]
+    }, {
+        "label": "河里乡社区戒毒（康复）工作站",
+        "value": 220,
+        "children": [{
+            "label": "河里乡",
+            "value": 221
+        }]
+    }, {
+        "label": "铁厂乡社区戒毒（康复）工作站",
+        "value": 222,
+        "children": [{
+            "label": "铁厂乡",
+            "value": 223
+        }]
+    }, {
+        "label": "漫水湾镇社区戒毒（康复）工作站",
+        "value": 224,
+        "children": [{
+            "label": "漫水湾镇",
+            "value": 225
+        }]
+    }, {
+        "label": "沙坝镇社区戒毒（康复）工作站",
+        "value": 226,
+        "children": [{
+            "label": "沙坝镇",
+            "value": 227
+        }]
+    }, {
+        "label": "泽远镇社区戒毒（康复）工作站",
+        "value": 228,
+        "children": [{
+            "label": "泽远镇",
+            "value": 229
+        }]
+    }, {
+        "label": "回龙镇社区戒毒（康复）工作站",
+        "value": 230,
+        "children": [{
+            "label": "回龙镇",
+            "value": 231
+        }]
+    }, {
+        "label": "回坪乡社区戒毒（康复）工作站",
+        "value": 232,
+        "children": [{
+            "label": "回坪乡",
+            "value": 233
+        }]
+    }, {
+        "label": " 哈哈乡社区戒毒（康复）工作站",
+        "value": 234,
+        "children": [{
+            "label": " 哈哈乡",
+            "value": 235
+        }]
+    }, {
+        "label": "惠安镇社区戒毒（康复）工作站",
+        "value": 236,
+        "children": [{
+            "label": "惠安镇",
+            "value": 237
+        }]
+    }, {
+        "label": "冶勒乡社区戒毒（康复）工作站",
+        "value": 238,
+        "children": [{
+            "label": "冶勒乡",
+            "value": 239
+        }]
+    }, {
+        "label": "林里乡社区戒毒（康复）工作站",
+        "value": 240,
+        "children": [{
+            "label": "林里乡",
+            "value": 241
+        }]
+    }, {
+        "label": "复兴镇社区戒毒（康复）工作站",
+        "value": 242,
+        "children": [{
+            "label": "复兴镇",
+            "value": 243
+        }]
+    }, {
+        "label": "河边镇社区戒毒（康复）工作站",
+        "value": 244,
+        "children": [{
+            "label": "河边镇",
+            "value": 245
+        }]
+    }, {
+        "label": "锦屏镇社区戒毒（康复）工作站",
+        "value": 246,
+        "children": [{
+            "label": "锦屏镇",
+            "value": 247
+        }, {
+            "label": "南河乡",
+            "value": 248
+        }, {
+            "label": "和爱乡",
+            "value": 249
+        }, {
+            "label": "马头乡",
+            "value": 250
+        }, {
+            "label": "青纳乡",
+            "value": 251
+        }, {
+            "label": "窝堡乡",
+            "value": 252
+        }, {
+            "label": "棉纱湾乡",
+            "value": 253
+        }, {
+            "label": "新兴乡",
+            "value": 254
+        }]
+    }, {
+        "label": "里庄镇社区戒毒（康复）工作站",
+        "value": 255,
+        "children": [{
+            "label": "里庄镇",
+            "value": 256
+        }, {
+            "label": "金林乡",
+            "value": 257
+        }, {
+            "label": "腊窝乡",
+            "value": 258
+        }, {
+            "label": "联合乡",
+            "value": 259
+        }, {
+            "label": "麦地沟乡",
+            "value": 260
+        }]
+    }]
+}, {
+    "label": "美姑县",
+    "value": 261,
+    "children": [{
+        "label": "巴古乡社区戒毒（康复）工作站",
+        "value": 262,
+        "children": [{
+            "label": "巴古乡",
+            "value": 263
+        }]
+    }, {
+        "label": "依洛拉达乡社区戒毒（康复）工作站",
+        "value": 264,
+        "children": [{
+            "label": "依洛拉达乡",
+            "value": 265
+        }]
+    }, {
+        "label": "乐约乡社区戒毒（康复）工作站",
+        "value": 266,
+        "children": [{
+            "label": "乐约乡",
+            "value": 267
+        }]
+    }, {
+        "label": "瓦古乡社区戒毒（康复）工作站",
+        "value": 268,
+        "children": [{
+            "label": "瓦古乡",
+            "value": 269
+        }]
+    }, {
+        "label": "牛牛坝乡社区戒毒（康复）工作站",
+        "value": 270,
+        "children": [{
+            "label": "牛牛坝乡",
+            "value": 271
+        }]
+    }, {
+        "label": "子威乡社区戒毒（康复）工作站",
+        "value": 272,
+        "children": [{
+            "label": "子威乡",
+            "value": 273
+        }]
+    }, {
+        "label": "候播乃拖乡社区戒毒（康复）工作站",
+        "value": 274,
+        "children": [{
+            "label": "候播乃拖乡",
+            "value": 275
+        }, {
+            "label": "苏洛乡",
+            "value": 276
+        }, {
+            "label": "采红乡",
+            "value": 277
+        }]
+    }, {
+        "label": "龙门乡社区戒毒（康复）工作站",
+        "value": 278,
+        "children": [{
+            "label": "龙门乡",
+            "value": 279
+        }, {
+            "label": "拖木乡",
+            "value": 280
+        }]
+    }, {
+        "label": "井叶特西乡社区戒毒（康复）工作站",
+        "value": 281,
+        "children": [{
+            "label": "井叶特西乡",
+            "value": 282
+        }]
+    }, {
+        "label": "农作乡社区戒毒（康复）工作站",
+        "value": 283,
+        "children": [{
+            "label": "农作乡",
+            "value": 284
+        }, {
+            "label": "合姑洛乡",
+            "value": 101603
+        }]
+    }, {
+        "label": "峨曲古乡社区戒毒（康复）工作站",
+        "value": 285,
+        "children": [{
+            "label": "峨曲古乡",
+            "value": 286
+        }, {
+            "label": "炳途乡",
+            "value": 287
+        }, {
+            "label": "尼哈乡",
+            "value": 288
+        }]
+    }, {
+        "label": "龙窝乡社区戒毒（康复）工作站",
+        "value": 289,
+        "children": [{
+            "label": "龙窝乡",
+            "value": 290
+        }, {
+            "label": "树窝乡",
+            "value": 291
+        }]
+    }, {
+        "label": "洛俄依甘乡社区戒毒（康复）工作站",
+        "value": 292,
+        "children": [{
+            "label": "洛俄依甘乡",
+            "value": 293
+        }]
+    }, {
+        "label": "依果觉乡社区戒毒（康复）工作站",
+        "value": 294,
+        "children": [{
+            "label": "依果觉乡",
+            "value": 295
+        }, {
+            "label": "瓦西乡",
+            "value": 296
+        }]
+    }, {
+        "label": "洒库乡社区戒毒（康复）工作站",
+        "value": 297,
+        "children": [{
+            "label": "洒库乡",
+            "value": 298
+        }]
+    }, {
+        "label": "洛莫依达乡社区戒毒（康复）工作站",
+        "value": 299,
+        "children": [{
+            "label": "洛莫依达乡",
+            "value": 300
+        }]
+    }, {
+        "label": "拉木阿觉乡社区戒毒（康复）工作站",
+        "value": 301,
+        "children": [{
+            "label": "拉木阿觉乡",
+            "value": 302
+        }]
+    }, {
+        "label": "尔其乡社区戒毒（康复）工作站",
+        "value": 303,
+        "children": [{
+            "label": "尔其乡",
+            "value": 304
+        }]
+    }, {
+        "label": "柳洪乡社区戒毒（康复）工作站",
+        "value": 305,
+        "children": [{
+            "label": "柳洪乡",
+            "value": 306
+        }, {
+            "label": "瓦古乡",
+            "value": 307
+        }]
+    }, {
+        "label": "巴普镇社区戒毒（康复）工作站",
+        "value": 308,
+        "children": [{
+            "label": "巴普镇",
+            "value": 309
+        }]
+    }, {
+        "label": "典补乡社区戒毒（康复）工作站",
+        "value": 310,
+        "children": [{
+            "label": "典补乡",
+            "value": 311
+        }, {
+            "label": "哈洛乡",
+            "value": 312
+        }]
+    }, {
+        "label": "尔合乡社区戒毒（康复）工作站",
+        "value": 313,
+        "children": [{
+            "label": "尔合乡",
+            "value": 314
+        }]
+    }, {
+        "label": "候古莫乡社区戒毒（康复）工作站",
+        "value": 315,
+        "children": [{
+            "label": "候古莫乡",
+            "value": 316
+        }]
+    }, {
+        "label": "九口乡社区戒毒（康复）工作站",
+        "value": 317,
+        "children": [{
+            "label": "九口乡",
+            "value": 318
+        }]
+    }, {
+        "label": "觉洛乡社区戒毒（康复）工作站",
+        "value": 319,
+        "children": [{
+            "label": "觉洛乡",
+            "value": 320
+        }]
+    }, {
+        "label": "竹库乡社区戒毒（康复）工作站",
+        "value": 321,
+        "children": [{
+            "label": "竹库乡",
+            "value": 322
+        }]
+    }, {
+        "label": "佐戈依达乡社区戒毒（康复）工作站",
+        "value": 323,
+        "children": [{
+            "label": "佐戈依达乡",
+            "value": 324
+        }]
+    }]
+}, {
+    "label": "会东县",
+    "value": 325,
+    "children": [{
+        "label": "鲹鱼河镇社区戒毒（康复）工作站",
+        "value": 326,
+        "children": [{
+            "label": "鲹鱼河镇",
+            "value": 327
+        }]
+    }, {
+        "label": "姜州镇社区戒毒（康复）工作站",
+        "value": 328,
+        "children": [{
+            "label": "姜州镇",
+            "value": 329
+        }, {
+            "label": "小坝乡",
+            "value": 330
+        }]
+    }, {
+        "label": "铁柳镇社区戒毒（康复）工作站",
+        "value": 331,
+        "children": [{
+            "label": "铁柳镇",
+            "value": 332
+        }]
+    }, {
+        "label": "嘎吉镇社区戒毒（康复）工作站",
+        "value": 333,
+        "children": [{
+            "label": "嘎吉镇",
+            "value": 334
+        }, {
+            "label": "乌东德镇",
+            "value": 335
+        }]
+    }, {
+        "label": "淌塘镇社区戒毒（康复）工作站",
+        "value": 336,
+        "children": [{
+            "label": "淌塘镇",
+            "value": 337
+        }, {
+            "label": "老君滩乡",
+            "value": 338
+        }]
+    }, {
+        "label": "新街镇社区戒毒（康复）工作站",
+        "value": 339,
+        "children": [{
+            "label": "新街镇",
+            "value": 340
+        }, {
+            "label": "江西街乡",
+            "value": 341
+        }, {
+            "label": "堵格镇",
+            "value": 342
+        }]
+    }, {
+        "label": "铅锌镇社区戒毒（康复）工作站",
+        "value": 343,
+        "children": [{
+            "label": "铅锌镇",
+            "value": 344
+        }, {
+            "label": "松坪镇",
+            "value": 345
+        }]
+    }, {
+        "label": "大崇镇社区戒毒（康复）工作站",
+        "value": 346,
+        "children": [{
+            "label": "大崇镇",
+            "value": 347
+        }, {
+            "label": "鲁吉镇",
+            "value": 348
+        }, {
+            "label": "溜姑乡",
+            "value": 349
+        }, {
+            "label": "野牛坪乡",
+            "value": 350
+        }]
+    }, {
+        "label": "野租乡社区戒毒（康复）工作站",
+        "value": 351,
+        "children": [{
+            "label": "野租乡",
+            "value": 352
+        }]
+    }, {
+        "label": "拉马乡社区戒毒（康复）工作站",
+        "value": 353,
+        "children": [{
+            "label": "拉马乡",
+            "value": 354
+        }, {
+            "label": "满银沟镇",
+            "value": 355
+        }]
+    }]
+}, {
+    "label": "西昌市",
+    "value": 356,
+    "children": [{
+        "label": "北城街道办事处社区戒毒（康复）工作站",
+        "value": 357,
+        "children": [{
+            "label": "北城街道办事处",
+            "value": 358
+        }]
+    }, {
+        "label": "西城街道办事处社区戒毒（康复）工作站",
+        "value": 359,
+        "children": [{
+            "label": "西城街道办事处",
+            "value": 360
+        }]
+    }, {
+        "label": "东城街道办事处社区戒毒（康复）工作站",
+        "value": 361,
+        "children": [{
+            "label": "东城街道办事处",
+            "value": 362
+        }]
+    }, {
+        "label": "长安街道办事处社区戒毒（康复）工作站",
+        "value": 363,
+        "children": [{
+            "label": "长安街道办事处",
+            "value": 364
+        }]
+    }, {
+        "label": "新村街道办事处社区戒毒（康复）工作站",
+        "value": 365,
+        "children": [{
+            "label": "新村街道办事处",
+            "value": 366
+        }]
+    }, {
+        "label": "长宁街道办事处社区戒毒（康复）工作站",
+        "value": 367,
+        "children": [{
+            "label": "长宁街道办事处",
+            "value": 368
+        }]
+    }, {
+        "label": "马道镇社区戒毒（康复）工作站",
+        "value": 369,
+        "children": [{
+            "label": "马道镇",
+            "value": 370
+        }]
+    }, {
+        "label": "礼州镇社区戒毒（康复）工作站",
+        "value": 371,
+        "children": [{
+            "label": "礼州镇",
+            "value": 372
+        }]
+    }, {
+        "label": "安宁镇社区戒毒（康复）工作站",
+        "value": 373,
+        "children": [{
+            "label": "安宁镇",
+            "value": 374
+        }]
+    }, {
+        "label": "川兴镇社区戒毒（康复）工作站",
+        "value": 375,
+        "children": [{
+            "label": "川兴镇",
+            "value": 376
+        }]
+    }, {
+        "label": "黄联关镇社区戒毒（康复）工作站",
+        "value": 377,
+        "children": [{
+            "label": "黄联关镇",
+            "value": 378
+        }]
+    }, {
+        "label": "佑君镇社区戒毒（康复）工作站",
+        "value": 379,
+        "children": [{
+            "label": "佑君镇",
+            "value": 380
+        }]
+    }, {
+        "label": "太和镇社区戒毒（康复）工作站",
+        "value": 381,
+        "children": [{
+            "label": "太和镇",
+            "value": 382
+        }]
+    }, {
+        "label": "安哈镇社区戒毒（康复）工作站",
+        "value": 383,
+        "children": [{
+            "label": "安哈镇",
+            "value": 384
+        }]
+    }, {
+        "label": "西郊乡社区戒毒（康复）工作站",
+        "value": 385,
+        "children": [{
+            "label": "西郊乡",
+            "value": 386
+        }]
+    }, {
+        "label": "高枧乡社区戒毒（康复）工作站",
+        "value": 387,
+        "children": [{
+            "label": "高枧乡",
+            "value": 388
+        }]
+    }, {
+        "label": "小庙乡社区戒毒（康复）工作站",
+        "value": 389,
+        "children": [{
+            "label": "小庙乡",
+            "value": 390
+        }]
+    }, {
+        "label": "月华乡社区戒毒（康复）工作站",
+        "value": 391,
+        "children": [{
+            "label": "月华乡",
+            "value": 392
+        }]
+    }, {
+        "label": "兴胜乡社区戒毒（康复）工作站",
+        "value": 393,
+        "children": [{
+            "label": "兴胜乡",
+            "value": 394
+        }]
+    }, {
+        "label": "琅环乡社区戒毒（康复）工作站",
+        "value": 395,
+        "children": [{
+            "label": "琅环乡",
+            "value": 396
+        }]
+    }, {
+        "label": "西乡乡社区戒毒（康复）工作站",
+        "value": 397,
+        "children": [{
+            "label": "西乡乡",
+            "value": 398
+        }]
+    }, {
+        "label": "樟木箐乡社区戒毒（康复）工作站",
+        "value": 399,
+        "children": [{
+            "label": "樟木箐乡",
+            "value": 400
+        }]
+    }, {
+        "label": "大兴乡社区戒毒（康复）工作站",
+        "value": 401,
+        "children": [{
+            "label": "大兴乡",
+            "value": 402
+        }]
+    }, {
+        "label": "海南乡社区戒毒（康复）工作站",
+        "value": 403,
+        "children": [{
+            "label": "海南乡",
+            "value": 404
+        }]
+    }, {
+        "label": "经久乡社区戒毒（康复）工作站",
+        "value": 405,
+        "children": [{
+            "label": "经久乡",
+            "value": 406
+        }]
+    }, {
+        "label": "西溪乡社区戒毒（康复）工作站",
+        "value": 407,
+        "children": [{
+            "label": "西溪乡",
+            "value": 408
+        }]
+    }, {
+        "label": "黄水乡社区戒毒（康复）工作站",
+        "value": 409,
+        "children": [{
+            "label": "黄水乡",
+            "value": 410
+        }]
+    }, {
+        "label": "中坝乡社区戒毒（康复）工作站",
+        "value": 411,
+        "children": [{
+            "label": "中坝乡",
+            "value": 412
+        }]
+    }, {
+        "label": "阿七乡社区戒毒（康复）工作站",
+        "value": 413,
+        "children": [{
+            "label": "阿七乡",
+            "value": 414
+        }]
+    }, {
+        "label": "四合乡社区戒毒（康复）工作站",
+        "value": 415,
+        "children": [{
+            "label": "四合乡",
+            "value": 416
+        }]
+    }, {
+        "label": "民胜乡社区戒毒（康复）工作站",
+        "value": 417,
+        "children": [{
+            "label": "民胜乡",
+            "value": 418
+        }]
+    }, {
+        "label": "响水乡社区戒毒（康复）工作站",
+        "value": 419,
+        "children": [{
+            "label": "响水乡",
+            "value": 420
+        }]
+    }, {
+        "label": "开元乡社区戒毒（康复）工作站",
+        "value": 421,
+        "children": [{
+            "label": "开元乡",
+            "value": 422
+        }]
+    }, {
+        "label": "大箐乡社区戒毒（康复）工作站",
+        "value": 423,
+        "children": [{
+            "label": "大箐乡",
+            "value": 424
+        }]
+    }, {
+        "label": "洛古波乡社区戒毒（康复）工作站",
+        "value": 425,
+        "children": [{
+            "label": "洛古波乡",
+            "value": 426
+        }]
+    }, {
+        "label": "荞地乡社区戒毒（康复）工作站",
+        "value": 427,
+        "children": [{
+            "label": "荞地乡",
+            "value": 428
+        }]
+    }, {
+        "label": "磨盘乡社区戒毒（康复）工作站",
+        "value": 429,
+        "children": [{
+            "label": "磨盘乡",
+            "value": 430
+        }]
+    }, {
+        "label": "巴汝乡社区戒毒（康复）工作站",
+        "value": 431,
+        "children": [{
+            "label": "巴汝乡",
+            "value": 432
+        }]
+    }, {
+        "label": "银厂乡社区戒毒（康复）工作站",
+        "value": 433,
+        "children": [{
+            "label": "银厂乡",
+            "value": 434
+        }]
+    }, {
+        "label": "白马乡社区戒毒（康复）工作站",
+        "value": 435,
+        "children": [{
+            "label": "白马乡",
+            "value": 436
+        }]
+    }, {
+        "label": "马鞍山乡社区戒毒（康复）工作站",
+        "value": 437,
+        "children": [{
+            "label": "马鞍山乡",
+            "value": 438
+        }]
+    }, {
+        "label": "裕隆回族乡社区戒毒（康复）工作站",
+        "value": 439,
+        "children": [{
+            "label": "裕隆回族乡",
+            "value": 440
+        }]
+    }, {
+        "label": "高草回族乡社区戒毒（康复）工作站",
+        "value": 441,
+        "children": [{
+            "label": "高草回族乡",
+            "value": 442
+        }]
+    }, {
+        "label": "东河乡社区戒毒（康复）工作站",
+        "value": 443,
+        "children": [{
+            "label": "东河乡",
+            "value": 444
+        }]
+    }, {
+        "label": "普诗乡社区戒毒（康复）工作站",
+        "value": 445,
+        "children": [{
+            "label": "普诗乡",
+            "value": 446
+        }]
+    }, {
+        "label": "马增依乌乡社区戒毒（康复）工作站",
+        "value": 447,
+        "children": [{
+            "label": "马增依乌乡",
+            "value": 448
+        }]
+    }]
+}, {
+    "label": "金阳县",
+    "value": 449,
+    "children": [{
+        "label": "对坪镇社区戒毒（康复）工作站",
+        "value": 450,
+        "children": [{
+            "label": "对坪镇",
+            "value": 451
+        }]
+    }, {
+        "label": "放马坪乡社区戒毒（康复）工作站",
+        "value": 452,
+        "children": [{
+            "label": "放马坪乡",
+            "value": 453
+        }]
+    }, {
+        "label": "山江乡社区戒毒（康复）工作站",
+        "value": 454,
+        "children": [{
+            "label": "山江乡",
+            "value": 455
+        }]
+    }, {
+        "label": "春江乡社区戒毒（康复）工作站",
+        "value": 456,
+        "children": [{
+            "label": "春江乡",
+            "value": 457
+        }]
+    }, {
+        "label": "青松乡社区戒毒（康复）工作站",
+        "value": 458,
+        "children": [{
+            "label": "青松乡",
+            "value": 459
+        }]
+    }, {
+        "label": "梗堡乡社区戒毒（康复）工作站",
+        "value": 460,
+        "children": [{
+            "label": "梗堡乡",
+            "value": 461
+        }]
+    }, {
+        "label": "红联乡社区戒毒（康复）工作站",
+        "value": 462,
+        "children": [{
+            "label": "红联乡",
+            "value": 463
+        }]
+    }, {
+        "label": "派来镇社区戒毒（康复）工作站",
+        "value": 464,
+        "children": [{
+            "label": "派来镇",
+            "value": 465
+        }]
+    }, {
+        "label": "芦稿镇社区戒毒（康复）工作站",
+        "value": 466,
+        "children": [{
+            "label": "芦稿镇",
+            "value": 467
+        }]
+    }, {
+        "label": "木府乡社区戒毒（康复）工作站",
+        "value": 468,
+        "children": [{
+            "label": "木府乡",
+            "value": 469
+        }]
+    }, {
+        "label": "则祖乡社区戒毒（康复）工作站",
+        "value": 470,
+        "children": [{
+            "label": "则祖乡",
+            "value": 471
+        }]
+    }, {
+        "label": "寨子乡社区戒毒（康复）工作站",
+        "value": 472,
+        "children": [{
+            "label": "寨子乡",
+            "value": 473
+        }]
+    }, {
+        "label": "基觉乡社区戒毒（康复）工作站",
+        "value": 474,
+        "children": [{
+            "label": "基觉乡",
+            "value": 475
+        }]
+    }, {
+        "label": "小银木乡社区戒毒（康复）工作站",
+        "value": 476,
+        "children": [{
+            "label": "小银木乡",
+            "value": 477
+        }]
+    }, {
+        "label": "天地坝镇社区戒毒（康复）工作站",
+        "value": 478,
+        "children": [{
+            "label": "天地坝镇",
+            "value": 479
+        }]
+    }, {
+        "label": "马依足乡社区戒毒（康复）工作站",
+        "value": 480,
+        "children": [{
+            "label": "马依足乡",
+            "value": 481
+        }]
+    }, {
+        "label": "红峰乡社区戒毒（康复）工作站",
+        "value": 482,
+        "children": [{
+            "label": "红峰乡",
+            "value": 483
+        }]
+    }, {
+        "label": "尔觉西乡社区戒毒（康复）工作站",
+        "value": 484,
+        "children": [{
+            "label": "尔觉西乡",
+            "value": 485
+        }]
+    }, {
+        "label": "甲依乡社区戒毒（康复）工作站",
+        "value": 486,
+        "children": [{
+            "label": "甲依乡",
+            "value": 487
+        }]
+    }, {
+        "label": "桃坪乡社区戒毒（康复）工作站",
+        "value": 488,
+        "children": [{
+            "label": "桃坪乡",
+            "value": 489
+        }]
+    }, {
+        "label": "热水河乡社区戒毒（康复）工作站",
+        "value": 490,
+        "children": [{
+            "label": "热水河乡",
+            "value": 491
+        }]
+    }, {
+        "label": "热柯觉乡社区戒毒（康复）工作站",
+        "value": 492,
+        "children": [{
+            "label": "热柯觉乡",
+            "value": 493
+        }]
+    }, {
+        "label": "南瓦乡社区戒毒（康复）工作站",
+        "value": 494,
+        "children": [{
+            "label": "南瓦乡",
+            "value": 495
+        }]
+    }, {
+        "label": "丝窝乡社区戒毒（康复）工作站",
+        "value": 496,
+        "children": [{
+            "label": "丝窝乡",
+            "value": 497
+        }]
+    }, {
+        "label": "丙底乡社区戒毒（康复）工作站",
+        "value": 498,
+        "children": [{
+            "label": "丙底乡",
+            "value": 499
+        }]
+    }, {
+        "label": "依达乡社区戒毒（康复）工作站",
+        "value": 500,
+        "children": [{
+            "label": "依达乡",
+            "value": 501
+        }]
+    }, {
+        "label": "土沟乡社区戒毒（康复）工作站",
+        "value": 502,
+        "children": [{
+            "label": "土沟乡",
+            "value": 503
+        }]
+    }, {
+        "label": "依莫合乡社区戒毒（康复）工作站",
+        "value": 504,
+        "children": [{
+            "label": "依莫合乡",
+            "value": 505
+        }]
+    }, {
+        "label": "洛觉乡社区戒毒（康复）工作站",
+        "value": 506,
+        "children": [{
+            "label": "洛觉乡",
+            "value": 507
+        }]
+    }, {
+        "label": "老寨子乡社区戒毒（康复）工作站",
+        "value": 508,
+        "children": [{
+            "label": "老寨子乡",
+            "value": 509
+        }]
+    }, {
+        "label": "向岭乡社区戒毒（康复）工作站",
+        "value": 510,
+        "children": [{
+            "label": "向岭乡",
+            "value": 511
+        }]
+    }, {
+        "label": "谷德乡社区戒毒（康复）工作站",
+        "value": 512,
+        "children": [{
+            "label": "谷德乡",
+            "value": 513
+        }]
+    }, {
+        "label": "高峰乡社区戒毒（康复）工作站",
+        "value": 514,
+        "children": [{
+            "label": "高峰乡",
+            "value": 515
+        }]
+    }, {
+        "label": "德溪乡社区戒毒（康复）工作站",
+        "value": 516,
+        "children": [{
+            "label": "德溪乡",
+            "value": 517
+        }]
+    }]
+}, {
+    "label": "会理县",
+    "value": 518,
+    "children": [{
+        "label": "南街街道办事处社区戒毒（康复）工作站",
+        "value": 519,
+        "children": [{
+            "label": "南街街道办事处",
+            "value": 520
+        }]
+    }, {
+        "label": "北街街道办事处社区戒毒（康复）工作站",
+        "value": 521,
+        "children": [{
+            "label": "北街街道办事处",
+            "value": 522
+        }]
+    }, {
+        "label": "北关街道办事处社区戒毒（康复）工作站",
+        "value": 523,
+        "children": [{
+            "label": "北关街道办事处",
+            "value": 524
+        }]
+    }, {
+        "label": "城南街道办事处社区戒毒（康复）工作站",
+        "value": 525,
+        "children": [{
+            "label": "城南街道办事处",
+            "value": 526
+        }]
+    }, {
+        "label": "城北街道办事处社区戒毒（康复）工作站",
+        "value": 527,
+        "children": [{
+            "label": "城北街道办事处",
+            "value": 528
+        }]
+    }, {
+        "label": "外北乡社区戒毒（康复）工作站",
+        "value": 529,
+        "children": [{
+            "label": "外北乡",
+            "value": 530
+        }]
+    }, {
+        "label": "内东乡社区戒毒（康复）工作站",
+        "value": 531,
+        "children": [{
+            "label": "内东乡",
+            "value": 532
+        }]
+    }, {
+        "label": "益门镇社区戒毒（康复）工作站",
+        "value": 533,
+        "children": [{
+            "label": "益门镇",
+            "value": 534
+        }]
+    }, {
+        "label": "云甸镇社区戒毒（康复）工作站",
+        "value": 535,
+        "children": [{
+            "label": "云甸镇",
+            "value": 536
+        }]
+    }, {
+        "label": "白果湾乡社区戒毒（康复）工作站",
+        "value": 537,
+        "children": [{
+            "label": "白果湾乡",
+            "value": 538
+        }]
+    }, {
+        "label": "六华镇社区戒毒（康复）工作站",
+        "value": 539,
+        "children": [{
+            "label": "六华镇",
+            "value": 540
+        }]
+    }, {
+        "label": "下村乡社区戒毒（康复）工作站",
+        "value": 541,
+        "children": [{
+            "label": "下村乡",
+            "value": 542
+        }]
+    }, {
+        "label": "太平镇社区戒毒（康复）工作站",
+        "value": 543,
+        "children": [{
+            "label": "太平镇",
+            "value": 544
+        }]
+    }, {
+        "label": "槽元乡社区戒毒（康复）工作站",
+        "value": 545,
+        "children": [{
+            "label": "槽元乡",
+            "value": 546
+        }]
+    }, {
+        "label": "通安镇社区戒毒（康复）工作站",
+        "value": 547,
+        "children": [{
+            "label": "通安镇",
+            "value": 548
+        }]
+    }, {
+        "label": "富乐镇社区戒毒（康复）工作站",
+        "value": 549,
+        "children": [{
+            "label": "富乐镇",
+            "value": 550
+        }]
+    }, {
+        "label": "竹箐乡社区戒毒（康复）工作站",
+        "value": 551,
+        "children": [{
+            "label": "竹箐乡",
+            "value": 552
+        }]
+    }, {
+        "label": "木古镇社区戒毒（康复）工作站",
+        "value": 553,
+        "children": [{
+            "label": "木古镇",
+            "value": 554
+        }]
+    }, {
+        "label": "新发镇社区戒毒（康复）工作站",
+        "value": 555,
+        "children": [{
+            "label": "新发镇",
+            "value": 556
+        }]
+    }, {
+        "label": "杨家坝乡社区戒毒（康复）工作站",
+        "value": 557,
+        "children": [{
+            "label": "杨家坝乡",
+            "value": 558
+        }]
+    }, {
+        "label": "黎溪镇社区戒毒（康复）工作站",
+        "value": 559,
+        "children": [{
+            "label": "黎溪镇",
+            "value": 560
+        }]
+    }, {
+        "label": "黎洪乡社区戒毒（康复）工作站",
+        "value": 561,
+        "children": [{
+            "label": "黎洪乡",
+            "value": 562
+        }]
+    }, {
+        "label": "关河镇社区戒毒（康复）工作站",
+        "value": 563,
+        "children": [{
+            "label": "关河镇",
+            "value": 564
+        }]
+    }, {
+        "label": "绿水镇社区戒毒（康复）工作站",
+        "value": 565,
+        "children": [{
+            "label": "绿水镇",
+            "value": 566
+        }]
+    }, {
+        "label": "新安傣族乡社区戒毒（康复）工作站",
+        "value": 567,
+        "children": [{
+            "label": "新安傣族乡",
+            "value": 568
+        }]
+    }, {
+        "label": "树堡乡社区戒毒（康复）工作站",
+        "value": 569,
+        "children": [{
+            "label": "树堡乡",
+            "value": 570
+        }]
+    }, {
+        "label": "鹿厂镇社区戒毒（康复）工作站",
+        "value": 571,
+        "children": [{
+            "label": "鹿厂镇",
+            "value": 572
+        }]
+    }, {
+        "label": "小黑箐镇社区戒毒（康复）工作站",
+        "value": 573,
+        "children": [{
+            "label": "小黑箐镇",
+            "value": 574
+        }]
+    }, {
+        "label": "彰冠镇社区戒毒（康复）工作站",
+        "value": 575,
+        "children": [{
+            "label": "彰冠镇",
+            "value": 576
+        }]
+    }, {
+        "label": "爱民乡社区戒毒（康复）工作站",
+        "value": 577,
+        "children": [{
+            "label": "爱民乡",
+            "value": 578
+        }]
+    }]
+}, {
+    "label": "越西县",
+    "value": 579,
+    "children": [{
+        "label": "越城镇社区戒毒（康复）工作站",
+        "value": 580,
+        "children": [{
+            "label": "越城镇",
+            "value": 581
+        }]
+    }, {
+        "label": "河东乡社区戒毒（康复）工作站",
+        "value": 582,
+        "children": [{
+            "label": "河东乡",
+            "value": 583
+        }]
+    }, {
+        "label": "西山乡社区戒毒（康复）工作站",
+        "value": 584,
+        "children": [{
+            "label": "西山乡",
+            "value": 585
+        }]
+    }, {
+        "label": "中所镇社区戒毒（康复）工作站",
+        "value": 586,
+        "children": [{
+            "label": "中所镇",
+            "value": 587
+        }]
+    }, {
+        "label": "大瑞镇社区戒毒（康复）工作站",
+        "value": 588,
+        "children": [{
+            "label": "大瑞镇",
+            "value": 589
+        }]
+    }, {
+        "label": "南箐镇社区戒毒（康复）工作站",
+        "value": 590,
+        "children": [{
+            "label": "南箐镇",
+            "value": 591
+        }]
+    }, {
+        "label": "马拖乡社区戒毒（康复）工作站",
+        "value": 592,
+        "children": [{
+            "label": "马拖乡",
+            "value": 593
+        }, {
+            "label": "新乡乡",
+            "value": 594
+        }]
+    }, {
+        "label": "大花乡社区戒毒（康复）工作站",
+        "value": 595,
+        "children": [{
+            "label": "大花乡",
+            "value": 596
+        }, {
+            "label": "丁山乡",
+            "value": 597
+        }]
+    }, {
+        "label": "普雄镇社区戒毒（康复）工作站",
+        "value": 598,
+        "children": [{
+            "label": "普雄镇",
+            "value": 599
+        }, {
+            "label": "德吉乡",
+            "value": 600
+        }]
+    }, {
+        "label": "贡莫乡社区戒毒（康复）工作站",
+        "value": 601,
+        "children": [{
+            "label": "贡莫乡",
+            "value": 602
+        }]
+    }, {
+        "label": "乐青地乡社区戒毒（康复）工作站",
+        "value": 603,
+        "children": [{
+            "label": "乐青地乡",
+            "value": 604
+        }]
+    }, {
+        "label": "拉白乡社区戒毒（康复）工作站",
+        "value": 605,
+        "children": [{
+            "label": "拉白乡",
+            "value": 606
+        }]
+    }, {
+        "label": "尔赛乡社区戒毒（康复）工作站",
+        "value": 607,
+        "children": [{
+            "label": "尔赛乡",
+            "value": 608
+        }]
+    }, {
+        "label": "竹阿觉镇社区戒毒（康复）工作站",
+        "value": 609,
+        "children": [{
+            "label": "竹阿觉镇",
+            "value": 610
+        }, {
+            "label": "保石乡",
+            "value": 611
+        }]
+    }, {
+        "label": "依洛地坝镇社区戒毒（康复）工作站",
+        "value": 612,
+        "children": [{
+            "label": "依洛地坝镇",
+            "value": 613
+        }]
+    }, {
+        "label": "新民镇社区戒毒（康复）工作站",
+        "value": 614,
+        "children": [{
+            "label": "新民镇",
+            "value": 615
+        }]
+    }, {
+        "label": "大屯乡社区戒毒（康复）工作站",
+        "value": 616,
+        "children": [{
+            "label": "大屯乡",
+            "value": 617
+        }]
+    }, {
+        "label": "板桥乡社区戒毒（康复）工作站",
+        "value": 618,
+        "children": [{
+            "label": "板桥乡",
+            "value": 619
+        }]
+    }, {
+        "label": "瓦岩乡社区戒毒（康复）工作站",
+        "value": 620,
+        "children": [{
+            "label": "瓦岩乡",
+            "value": 621
+        }]
+    }, {
+        "label": "乃托镇社区戒毒（康复）工作站",
+        "value": 622,
+        "children": [{
+            "label": "乃托镇",
+            "value": 623
+        }, {
+            "label": "保安藏族乡",
+            "value": 624
+        }]
+    }, {
+        "label": "梅花乡社区戒毒（康复）工作站",
+        "value": 625,
+        "children": [{
+            "label": "梅花乡",
+            "value": 626
+        }]
+    }, {
+        "label": "白果乡社区戒毒（康复）工作站",
+        "value": 627,
+        "children": [{
+            "label": "白果乡",
+            "value": 628
+        }]
+    }, {
+        "label": "尔觉乡社区戒毒（康复）工作站",
+        "value": 629,
+        "children": [{
+            "label": "尔觉乡",
+            "value": 630
+        }]
+    }, {
+        "label": "铁西乡社区戒毒（康复）工作站",
+        "value": 631,
+        "children": [{
+            "label": "铁西乡",
+            "value": 632
+        }]
+    }, {
+        "label": "拉普乡社区戒毒（康复）工作站",
+        "value": 633,
+        "children": [{
+            "label": "拉普乡",
+            "value": 634
+        }]
+    }, {
+        "label": "四呷普乡社区戒毒（康复）工作站",
+        "value": 635,
+        "children": [{
+            "label": "四呷普乡",
+            "value": 636
+        }]
+    }, {
+        "label": "书古镇社区戒毒（康复）工作站",
+        "value": 637,
+        "children": [{
+            "label": "书古镇",
+            "value": 638
+        }, {
+            "label": "瓦普莫乡",
+            "value": 639
+        }]
+    }, {
+        "label": "五里箐乡社区戒毒（康复）工作站",
+        "value": 640,
+        "children": [{
+            "label": "五里箐乡",
+            "value": 641
+        }]
+    }, {
+        "label": "申果乡社区戒毒（康复）工作站",
+        "value": 642,
+        "children": [{
+            "label": "申果乡",
+            "value": 643
+        }, {
+            "label": "申普乡",
+            "value": 644
+        }, {
+            "label": "瓦曲觉乡",
+            "value": 645
+        }, {
+            "label": "拉吉乡",
+            "value": 646
+        }]
+    }]
+}, {
+    "label": "盐源县",
+    "value": 647,
+    "children": [{
+        "label": "盐井镇社区戒毒（康复）工作站",
+        "value": 648,
+        "children": [{
+            "label": "盐井镇",
+            "value": 649
+        }]
+    }, {
+        "label": "卫城镇社区戒毒（康复）工作站",
+        "value": 650,
+        "children": [{
+            "label": "卫城镇",
+            "value": 651
+        }]
+    }, {
+        "label": "梅雨镇社区戒毒（康复）工作站",
+        "value": 652,
+        "children": [{
+            "label": "梅雨镇",
+            "value": 653
+        }]
+    }, {
+        "label": "白乌镇社区戒毒（康复）工作站",
+        "value": 654,
+        "children": [{
+            "label": "白乌镇",
+            "value": 655
+        }]
+    }, {
+        "label": "双河乡社区戒毒（康复）工作站",
+        "value": 656,
+        "children": [{
+            "label": "双河乡",
+            "value": 657
+        }]
+    }, {
+        "label": "大河乡社区戒毒（康复）工作站",
+        "value": 658,
+        "children": [{
+            "label": "大河乡",
+            "value": 659
+        }]
+    }, {
+        "label": "棉桠乡社区戒毒（康复）工作站",
+        "value": 660,
+        "children": [{
+            "label": "棉桠乡",
+            "value": 661
+        }]
+    }, {
+        "label": "干海乡社区戒毒（康复）工作站",
+        "value": 662,
+        "children": [{
+            "label": "干海乡",
+            "value": 663
+        }]
+    }, {
+        "label": "下海乡社区戒毒（康复）工作站",
+        "value": 664,
+        "children": [{
+            "label": "下海乡",
+            "value": 665
+        }]
+    }, {
+        "label": "金河乡社区戒毒（康复）工作站",
+        "value": 666,
+        "children": [{
+            "label": "金河乡",
+            "value": 667
+        }]
+    }, {
+        "label": "平川镇社区戒毒（康复）工作站",
+        "value": 668,
+        "children": [{
+            "label": "平川镇",
+            "value": 669
+        }]
+    }, {
+        "label": "官地镇社区戒毒（康复）工作站",
+        "value": 670,
+        "children": [{
+            "label": "官地镇",
+            "value": 671
+        }]
+    }, {
+        "label": "右所乡社区戒毒（康复）工作站",
+        "value": 672,
+        "children": [{
+            "label": "右所乡",
+            "value": 673
+        }]
+    }, {
+        "label": "树河镇社区戒毒（康复）工作站",
+        "value": 674,
+        "children": [{
+            "label": "树河镇",
+            "value": 675
+        }]
+    }, {
+        "label": "甘塘乡社区戒毒（康复）工作站",
+        "value": 676,
+        "children": [{
+            "label": "甘塘乡",
+            "value": 677
+        }]
+    }, {
+        "label": "田湾乡社区戒毒（康复）工作站",
+        "value": 678,
+        "children": [{
+            "label": "田湾乡",
+            "value": 679
+        }]
+    }, {
+        "label": "藤桥乡社区戒毒（康复）工作站",
+        "value": 680,
+        "children": [{
+            "label": "藤桥乡",
+            "value": 681
+        }]
+    }, {
+        "label": "博大乡社区戒毒（康复）工作站",
+        "value": 682,
+        "children": [{
+            "label": "博大乡",
+            "value": 683
+        }]
+    }, {
+        "label": "黄草镇社区戒毒（康复）工作站",
+        "value": 684,
+        "children": [{
+            "label": "黄草镇",
+            "value": 685
+        }]
+    }, {
+        "label": "盐塘乡社区戒毒（康复）工作站",
+        "value": 686,
+        "children": [{
+            "label": "盐塘乡",
+            "value": 687
+        }]
+    }, {
+        "label": "巫木乡社区戒毒（康复）工作站",
+        "value": 688,
+        "children": [{
+            "label": "巫木乡",
+            "value": 689
+        }]
+    }, {
+        "label": "大草乡社区戒毒（康复）工作站",
+        "value": 690,
+        "children": [{
+            "label": "大草乡",
+            "value": 691
+        }]
+    }, {
+        "label": "桃子乡社区戒毒（康复）工作站",
+        "value": 692,
+        "children": [{
+            "label": "桃子乡",
+            "value": 693
+        }]
+    }, {
+        "label": "长柏乡社区戒毒（康复）工作站",
+        "value": 694,
+        "children": [{
+            "label": "长柏乡",
+            "value": 695
+        }]
+    }, {
+        "label": "盖租乡社区戒毒（康复）工作站",
+        "value": 696,
+        "children": [{
+            "label": "盖租乡",
+            "value": 697
+        }]
+    }, {
+        "label": "泸沽湖镇社区戒毒（康复）工作站",
+        "value": 698,
+        "children": [{
+            "label": "泸沽湖镇",
+            "value": 699
+        }]
+    }, {
+        "label": "前所乡社区戒毒（康复）工作站",
+        "value": 700,
+        "children": [{
+            "label": "前所乡",
+            "value": 701
+        }]
+    }, {
+        "label": "沃底乡社区戒毒（康复）工作站",
+        "value": 702,
+        "children": [{
+            "label": "沃底乡",
+            "value": 703
+        }]
+    }, {
+        "label": "大坡乡社区戒毒（康复）工作站",
+        "value": 704,
+        "children": [{
+            "label": "大坡乡",
+            "value": 705
+        }]
+    }, {
+        "label": "洼里乡社区戒毒（康复）工作站",
+        "value": 706,
+        "children": [{
+            "label": "洼里乡",
+            "value": 707
+        }]
+    }, {
+        "label": "梅子乡社区戒毒（康复）工作站",
+        "value": 708,
+        "children": [{
+            "label": "梅子乡",
+            "value": 709
+        }]
+    }]
+}, {
+    "label": "木里藏族自治县",
+    "value": 710,
+    "children": [{
+        "label": "瓦厂镇片区社区戒毒（康复）工作站",
+        "value": 711,
+        "children": [{
+            "label": "瓦厂镇",
+            "value": 712
+        }, {
+            "label": "水洛乡",
+            "value": 713
+        }, {
+            "label": "宁朗乡",
+            "value": 714
+        }, {
+            "label": "依吉乡",
+            "value": 715
+        }, {
+            "label": "俄亚纳西族乡",
+            "value": 716
+        }, {
+            "label": "桃坝乡",
+            "value": 717
+        }, {
+            "label": "博科乡",
+            "value": 718
+        }, {
+            "label": "克尔乡",
+            "value": 719
+        }, {
+            "label": "屋脚蒙古族乡",
+            "value": 720
+        }]
+    }, {
+        "label": "茶布朗镇片区社区戒毒（康复）工作站",
+        "value": 721,
+        "children": [{
+            "label": "茶布朗镇",
+            "value": 722
+        }, {
+            "label": "东孜乡",
+            "value": 723
+        }, {
+            "label": "唐央乡",
+            "value": 724
+        }, {
+            "label": "东朗乡",
+            "value": 725
+        }, {
+            "label": "麦日乡",
+            "value": 726
+        }, {
+            "label": "博窝乡",
+            "value": 727
+        }, {
+            "label": "沙湾乡",
+            "value": 728
+        }, {
+            "label": "固增苗族乡",
+            "value": 729
+        }]
+    }, {
+        "label": "乔瓦镇片区社区戒毒（康复）工作站",
+        "value": 730,
+        "children": [{
+            "label": "乔瓦镇",
+            "value": 731
+        }, {
+            "label": "下麦地乡",
+            "value": 732
+        }, {
+            "label": "后所乡",
+            "value": 733
+        }, {
+            "label": "李子坪乡",
+            "value": 734
+        }, {
+            "label": "芽祖乡",
+            "value": 735
+        }, {
+            "label": "列瓦乡",
+            "value": 736
+        }, {
+            "label": "牦牛坪乡",
+            "value": 737
+        }]
+    }, {
+        "label": "雅砻江片区社区戒毒（康复）工作站",
+        "value": 738,
+        "children": [{
+            "label": "麦地龙乡",
+            "value": 739
+        }, {
+            "label": "三桷垭乡",
+            "value": 740
+        }, {
+            "label": "卡拉乡",
+            "value": 741
+        }, {
+            "label": "白碉苗族乡",
+            "value": 742
+        }, {
+            "label": "倮波乡",
+            "value": 743
+        }, {
+            "label": "项脚蒙古族乡",
+            "value": 744
+        }]
+    }]
+}, {
+    "label": "普格县",
+    "value": 745,
+    "children": [{
+        "label": "荞窝镇社区戒毒（康复）工作站",
+        "value": 746,
+        "children": [{
+            "label": "荞窝镇",
+            "value": 747
+        }]
+    }, {
+        "label": "永安乡社区戒毒（康复）工作站",
+        "value": 748,
+        "children": [{
+            "label": "永安乡",
+            "value": 749
+        }]
+    }, {
+        "label": "普基镇社区戒毒（康复）工作站",
+        "value": 750,
+        "children": [{
+            "label": "普基镇",
+            "value": 751
+        }]
+    }, {
+        "label": "大坪乡社区戒毒（康复）工作站",
+        "value": 752,
+        "children": [{
+            "label": "大坪乡",
+            "value": 753
+        }]
+    }, {
+        "label": "刘家坪乡社区戒毒（康复）工作站",
+        "value": 754,
+        "children": [{
+            "label": "刘家坪乡",
+            "value": 755
+        }]
+    }, {
+        "label": "东山乡社区戒毒（康复）工作站",
+        "value": 756,
+        "children": [{
+            "label": "东山乡",
+            "value": 757
+        }]
+    }, {
+        "label": "螺髻山镇社区戒毒（康复）工作站",
+        "value": 758,
+        "children": [{
+            "label": "螺髻山镇",
+            "value": 759
+        }]
+    }, {
+        "label": "花山乡社区戒毒（康复）工作站",
+        "value": 760,
+        "children": [{
+            "label": "花山乡",
+            "value": 761
+        }]
+    }, {
+        "label": "雨水乡社区戒毒（康复）工作站",
+        "value": 762,
+        "children": [{
+            "label": "雨水乡",
+            "value": 763
+        }]
+    }, {
+        "label": "辉隆乡社区戒毒（康复）工作站",
+        "value": 764,
+        "children": [{
+            "label": "辉隆乡",
+            "value": 765
+        }]
+    }, {
+        "label": "特补乡社区戒毒（康复）工作站",
+        "value": 766,
+        "children": [{
+            "label": "特补乡",
+            "value": 767
+        }]
+    }, {
+        "label": "大槽乡社区戒毒（康复）工作站",
+        "value": 768,
+        "children": [{
+            "label": "大槽乡",
+            "value": 769
+        }]
+    }, {
+        "label": "洛乌乡社区戒毒（康复）工作站",
+        "value": 770,
+        "children": [{
+            "label": "洛乌乡",
+            "value": 771
+        }]
+    }, {
+        "label": "孟甘乡社区戒毒（康复）工作站",
+        "value": 772,
+        "children": [{
+            "label": "孟甘乡",
+            "value": 773
+        }]
+    }, {
+        "label": "向阳乡社区戒毒（康复）工作站",
+        "value": 774,
+        "children": [{
+            "label": "向阳乡",
+            "value": 775
+        }]
+    }, {
+        "label": "吉乐乡社区戒毒（康复）工作站",
+        "value": 776,
+        "children": [{
+            "label": "吉乐乡",
+            "value": 777
+        }]
+    }, {
+        "label": "特口乡社区戒毒（康复）工作站",
+        "value": 778,
+        "children": [{
+            "label": "特口乡",
+            "value": 779
+        }]
+    }, {
+        "label": "文坪乡社区戒毒（康复）工作站",
+        "value": 780,
+        "children": [{
+            "label": "文坪乡",
+            "value": 781
+        }]
+    }, {
+        "label": "黎安乡社区戒毒（康复）工作站",
+        "value": 782,
+        "children": [{
+            "label": "黎安乡",
+            "value": 783
+        }]
+    }, {
+        "label": "夹铁乡社区戒毒（康复）工作站",
+        "value": 784,
+        "children": [{
+            "label": "夹铁乡",
+            "value": 785
+        }]
+    }, {
+        "label": "瓦洛乡社区戒毒（康复）工作站",
+        "value": 786,
+        "children": [{
+            "label": "瓦洛乡",
+            "value": 787
+        }]
+    }, {
+        "label": "菜子乡社区戒毒（康复）工作站",
+        "value": 788,
+        "children": [{
+            "label": "菜子乡",
+            "value": 789
+        }]
+    }, {
+        "label": "哈力洛乡社区戒毒（康复）工作站",
+        "value": 790,
+        "children": [{
+            "label": "哈力洛乡",
+            "value": 791
+        }]
+    }, {
+        "label": "特兹乡社区戒毒（康复）工作站",
+        "value": 792,
+        "children": [{
+            "label": "特兹乡",
+            "value": 793
+        }]
+    }, {
+        "label": "洛乌沟乡社区戒毒（康复）工作站",
+        "value": 794,
+        "children": [{
+            "label": "洛乌沟乡",
+            "value": 795
+        }]
+    }, {
+        "label": "祝联乡社区戒毒（康复）工作站",
+        "value": 796,
+        "children": [{
+            "label": "祝联乡",
+            "value": 797
+        }]
+    }, {
+        "label": "红莫乡社区戒毒（康复）工作站",
+        "value": 798,
+        "children": [{
+            "label": "红莫乡",
+            "value": 799
+        }]
+    }, {
+        "label": "马洪乡社区戒毒（康复）工作站",
+        "value": 800,
+        "children": [{
+            "label": "马洪乡",
+            "value": 801
+        }]
+    }, {
+        "label": "洛甘乡社区戒毒（康复）工作站",
+        "value": 802,
+        "children": [{
+            "label": "洛甘乡",
+            "value": 803
+        }]
+    }, {
+        "label": "五道箐乡社区戒毒（康复）工作站",
+        "value": 804,
+        "children": [{
+            "label": "五道箐乡",
+            "value": 805
+        }]
+    }, {
+        "label": "特尔果乡社区戒毒（康复）工作站",
+        "value": 806,
+        "children": [{
+            "label": "特尔果乡",
+            "value": 807
+        }]
+    }, {
+        "label": "甘天地乡社区戒毒（康复）工作站",
+        "value": 808,
+        "children": [{
+            "label": "甘天地乡",
+            "value": 809
+        }]
+    }, {
+        "label": "耶底乡社区戒毒（康复）工作站",
+        "value": 810,
+        "children": [{
+            "label": "耶底乡",
+            "value": 811
+        }]
+    }, {
+        "label": "月吾乡社区戒毒（康复）工作站",
+        "value": 812,
+        "children": [{
+            "label": "月吾乡",
+            "value": 813
+        }]
+    }]
+}, {
+    "label": "雷波县",
+    "value": 814,
+    "children": [{
+        "label": "五官乡社区戒毒（康复）工作站",
+        "value": 815,
+        "children": [{
+            "label": "五官乡",
+            "value": 816
+        }, {
+            "label": "千万贯乡",
+            "value": 817
+        }]
+    }, {
+        "label": "咪姑乡社区戒毒（康复）工作站",
+        "value": 818,
+        "children": [{
+            "label": "咪姑乡",
+            "value": 819
+        }]
+    }, {
+        "label": "锦城镇社区戒毒（康复）工作站",
+        "value": 820,
+        "children": [{
+            "label": "锦城镇",
+            "value": 821
+        }, {
+            "label": "杉树堡乡",
+            "value": 822
+        }, {
+            "label": "金沙镇",
+            "value": 823
+        }, {
+            "label": "海湾乡",
+            "value": 824
+        }]
+    }, {
+        "label": "元宝山乡社区戒毒（康复）工作站",
+        "value": 825,
+        "children": [{
+            "label": "元宝山乡",
+            "value": 826
+        }, {
+            "label": "卡哈洛中心乡",
+            "value": 827
+        }]
+    }, {
+        "label": "永盛中心乡社区戒毒（康复）工作站",
+        "value": 828,
+        "children": [{
+            "label": "永盛中心乡",
+            "value": 829
+        }, {
+            "label": "顺河乡",
+            "value": 830
+        }, {
+            "label": "回龙场乡",
+            "value": 831
+        }, {
+            "label": "溪洛米乡",
+            "value": 832
+        }, {
+            "label": "渡口乡",
+            "value": 833
+        }]
+    }, {
+        "label": "桂花乡社区戒毒（康复）工作站",
+        "value": 834,
+        "children": [{
+            "label": "桂花乡",
+            "value": 835
+        }]
+    }, {
+        "label": "坪头乡社区戒毒（康复）工作站",
+        "value": 836,
+        "children": [{
+            "label": "坪头乡",
+            "value": 837
+        }]
+    }, {
+        "label": "八寨中心乡社区戒毒（康复）工作站",
+        "value": 838,
+        "children": [{
+            "label": "八寨中心乡",
+            "value": 839
+        }]
+    }, {
+        "label": "山棱岗中心乡社区戒毒（康复）工作站",
+        "value": 840,
+        "children": [{
+            "label": "山棱岗中心乡",
+            "value": 841
+        }, {
+            "label": "长河乡",
+            "value": 842
+        }, {
+            "label": "谷堆乡",
+            "value": 843
+        }]
+    }, {
+        "label": "汶水镇社区戒毒（康复）工作站",
+        "value": 844,
+        "children": [{
+            "label": "汶水镇",
+            "value": 845
+        }, {
+            "label": "箐口乡",
+            "value": 846
+        }]
+    }, {
+        "label": "岩脚乡社区戒毒（康复）工作站",
+        "value": 847,
+        "children": [{
+            "label": "岩脚乡",
+            "value": 848
+        }]
+    }, {
+        "label": "黄琅镇社区戒毒（康复）工作站",
+        "value": 849,
+        "children": [{
+            "label": "黄琅镇",
+            "value": 850
+        }, {
+            "label": "双河口乡",
+            "value": 851
+        }, {
+            "label": "大岩洞乡",
+            "value": 852
+        }, {
+            "label": "柑子乡",
+            "value": 853
+        }, {
+            "label": "中田乡",
+            "value": 854
+        }, {
+            "label": "谷米乡",
+            "value": 855
+        }]
+    }, {
+        "label": "帕哈乡社区戒毒（康复）工作站",
+        "value": 856,
+        "children": [{
+            "label": "帕哈乡",
+            "value": 857
+        }]
+    }, {
+        "label": "马湖乡社区戒毒（康复）工作站",
+        "value": 858,
+        "children": [{
+            "label": "马湖乡",
+            "value": 859
+        }]
+    }, {
+        "label": "莫红中心乡社区戒毒（康复）工作站",
+        "value": 860,
+        "children": [{
+            "label": "莫红中心乡",
+            "value": 861
+        }]
+    }, {
+        "label": "曲依乡社区戒毒（康复）工作站",
+        "value": 862,
+        "children": [{
+            "label": "曲依乡",
+            "value": 863
+        }]
+    }, {
+        "label": "雷池中心乡社区戒毒（康复）工作站",
+        "value": 864,
+        "children": [{
+            "label": "雷池中心乡",
+            "value": 865
+        }, {
+            "label": "巴姑乡",
+            "value": 866
+        }, {
+            "label": "斯古溪乡",
+            "value": 867
+        }, {
+            "label": "一车乡",
+            "value": 868
+        }]
+    }, {
+        "label": "松树乡社区戒毒（康复）工作站",
+        "value": 869,
+        "children": [{
+            "label": "松树乡",
+            "value": 870
+        }, {
+            "label": "拉咪乡",
+            "value": 871
+        }]
+    }, {
+        "label": "西宁中心镇社区戒毒（康复）工作站",
+        "value": 872,
+        "children": [{
+            "label": "西宁中心镇",
+            "value": 873
+        }, {
+            "label": "沙陀乡",
+            "value": 874
+        }, {
+            "label": "烂坝子乡",
+            "value": 875
+        }, {
+            "label": "罗山溪乡",
+            "value": 876
+        }]
+    }, {
+        "label": "上田坝中心乡社区戒毒（康复）工作站",
+        "value": 877,
+        "children": [{
+            "label": "上田坝中心乡",
+            "value": 878
+        }, {
+            "label": "小沟乡",
+            "value": 879
+        }, {
+            "label": "簸箕梁子乡",
+            "value": 880
+        }, {
+            "label": "大坪子乡",
+            "value": 881
+        }]
+    }]
+}, {
+    "label": "德昌县",
+    "value": 882,
+    "children": [{
+        "label": "德州镇社区戒毒（康复）工作站",
+        "value": 883,
+        "children": [{
+            "label": "德州镇",
+            "value": 884
+        }]
+    }, {
+        "label": "铁炉镇社区戒毒（康复）工作站",
+        "value": 885,
+        "children": [{
+            "label": "铁炉镇",
+            "value": 886
+        }]
+    }, {
+        "label": "阿月镇社区戒毒（康复）工作站",
+        "value": 887,
+        "children": [{
+            "label": "阿月镇",
+            "value": 888
+        }]
+    }, {
+        "label": "麻栗镇社区戒毒（康复）工作站",
+        "value": 889,
+        "children": [{
+            "label": "麻栗镇",
+            "value": 890
+        }]
+    }, {
+        "label": "茨达镇社区戒毒（康复）工作站",
+        "value": 891,
+        "children": [{
+            "label": "茨达镇",
+            "value": 892
+        }]
+    }, {
+        "label": "热河镇社区戒毒（康复）工作站",
+        "value": 893,
+        "children": [{
+            "label": "热河镇",
+            "value": 894
+        }]
+    }, {
+        "label": "小高镇社区戒毒（康复）工作站",
+        "value": 895,
+        "children": [{
+            "label": "小高镇",
+            "value": 896
+        }]
+    }, {
+        "label": "王所镇社区戒毒（康复）工作站",
+        "value": 897,
+        "children": [{
+            "label": "王所镇",
+            "value": 898
+        }]
+    }, {
+        "label": "乐跃镇社区戒毒（康复）工作站",
+        "value": 899,
+        "children": [{
+            "label": "乐跃镇",
+            "value": 900
+        }]
+    }, {
+        "label": "黑龙潭镇社区戒毒（康复）工作站",
+        "value": 901,
+        "children": [{
+            "label": "黑龙潭镇",
+            "value": 902
+        }]
+    }, {
+        "label": "建立片区工作站设在宽裕镇",
+        "value": 903,
+        "children": [{
+            "label": "巴洞镇",
+            "value": 904
+        }, {
+            "label": "宽裕镇",
+            "value": 905
+        }, {
+            "label": "大陆槽乡",
+            "value": 906
+        }]
+    }, {
+        "label": "建立片区工作站设在锦川镇",
+        "value": 907,
+        "children": [{
+            "label": "锦川镇",
+            "value": 908
+        }, {
+            "label": "永郎镇",
+            "value": 909
+        }, {
+            "label": "金沙乡",
+            "value": 910
+        }, {
+            "label": "老碾镇",
+            "value": 911
+        }]
+    }, {
+        "label": "六所镇社区戒毒（康复）工作站",
+        "value": 912,
+        "children": [{
+            "label": "六所镇",
+            "value": 913
+        }, {
+            "label": "南山乡",
+            "value": 914
+        }]
+    }]
+}, {
+    "label": "甘洛县",
+    "value": 915,
+    "children": [{
+        "label": "新市坝镇社区戒毒（康复）工作站",
+        "value": 916,
+        "children": [{
+            "label": "新市坝镇",
+            "value": 917
+        }]
+    }, {
+        "label": "普昌镇社区戒毒（康复）工作站",
+        "value": 918,
+        "children": [{
+            "label": "普昌镇",
+            "value": 919
+        }]
+    }, {
+        "label": "田坝镇社区戒毒（康复）工作站",
+        "value": 920,
+        "children": [{
+            "label": "田坝镇",
+            "value": 921
+        }]
+    }, {
+        "label": "石海乡社区戒毒（康复）工作站",
+        "value": 922,
+        "children": [{
+            "label": "石海乡",
+            "value": 923
+        }]
+    }, {
+        "label": "阿尔乡社区戒毒（康复）工作站",
+        "value": 924,
+        "children": [{
+            "label": "阿尔乡",
+            "value": 925
+        }]
+    }, {
+        "label": "吉米镇社区戒毒（康复）工作站",
+        "value": 926,
+        "children": [{
+            "label": "吉米镇",
+            "value": 927
+        }]
+    }, {
+        "label": "波波乡社区戒毒（康复）工作站",
+        "value": 928,
+        "children": [{
+            "label": "波波乡",
+            "value": 929
+        }]
+    }, {
+        "label": "阿嘎乡社区戒毒（康复）工作站",
+        "value": 930,
+        "children": [{
+            "label": "阿嘎乡",
+            "value": 931
+        }]
+    }, {
+        "label": "斯觉镇社区戒毒（康复）工作站",
+        "value": 932,
+        "children": [{
+            "label": "斯觉镇",
+            "value": 933
+        }, {
+            "label": "拉莫乡",
+            "value": 934
+        }]
+    }, {
+        "label": "尼尔觉乡社区戒毒（康复）工作站",
+        "value": 935,
+        "children": [{
+            "label": "尼尔觉乡",
+            "value": 936
+        }]
+    }, {
+        "label": "里克乡社区戒毒（康复）工作站",
+        "value": 937,
+        "children": [{
+            "label": "里克乡",
+            "value": 938
+        }]
+    }, {
+        "label": "玉田镇社区戒毒（康复）工作站",
+        "value": 939,
+        "children": [{
+            "label": "玉田镇",
+            "value": 940
+        }]
+    }, {
+        "label": "则拉乡社区戒毒（康复）工作站",
+        "value": 941,
+        "children": [{
+            "label": "则拉乡",
+            "value": 942
+        }]
+    }, {
+        "label": "团结乡社区戒毒（康复）工作站",
+        "value": 943,
+        "children": [{
+            "label": "团结乡",
+            "value": 944
+        }]
+    }, {
+        "label": "嘎日乡社区戒毒（康复）工作站",
+        "value": 945,
+        "children": [{
+            "label": "嘎日乡",
+            "value": 946
+        }]
+    }, {
+        "label": "前进乡社区戒毒（康复）工作站",
+        "value": 947,
+        "children": [{
+            "label": "前进乡",
+            "value": 948
+        }]
+    }, {
+        "label": "胜利乡社区戒毒（康复）工作站",
+        "value": 949,
+        "children": [{
+            "label": "胜利乡",
+            "value": 950
+        }]
+    }, {
+        "label": "新茶乡社区戒毒（康复）工作站",
+        "value": 951,
+        "children": [{
+            "label": "新茶乡",
+            "value": 952
+        }, {
+            "label": "两河乡",
+            "value": 953
+        }]
+    }, {
+        "label": "海棠片区社区戒毒（康复）工作站",
+        "value": 954,
+        "children": [{
+            "label": "海棠镇",
+            "value": 955
+        }, {
+            "label": "坪坝乡",
+            "value": 956
+        }]
+    }, {
+        "label": "蓼坪乡社区戒毒（康复）工作站",
+        "value": 957,
+        "children": [{
+            "label": "蓼坪乡",
+            "value": 958
+        }]
+    }, {
+        "label": "苏雄乡社区戒毒（康复）工作站",
+        "value": 959,
+        "children": [{
+            "label": "苏雄乡",
+            "value": 960
+        }]
+    }, {
+        "label": "沙岱乡社区戒毒（康复）工作站",
+        "value": 961,
+        "children": [{
+            "label": "沙岱乡",
+            "value": 962
+        }]
+    }, {
+        "label": "阿兹觉乡社区戒毒（康复）工作站",
+        "value": 963,
+        "children": [{
+            "label": "阿兹觉乡",
+            "value": 964
+        }]
+    }, {
+        "label": "黑马乡社区戒毒（康复）工作站",
+        "value": 965,
+        "children": [{
+            "label": "黑马乡",
+            "value": 966
+        }]
+    }, {
+        "label": "乌史大桥乡社区戒毒（康复）工作站",
+        "value": 967,
+        "children": [{
+            "label": "乌史大桥乡",
+            "value": 968
+        }]
+    }]
+}, {
+    "label": "喜德县",
+    "value": 969,
+    "children": [{
+        "label": "尼波镇社区戒毒（康复）工作站",
+        "value": 970,
+        "children": [{
+            "label": "尼波镇",
+            "value": 971
+        }]
+    }, {
+        "label": "乐武乡社区戒毒（康复）工作站",
+        "value": 972,
+        "children": [{
+            "label": "乐武乡",
+            "value": 973
+        }]
+    }, {
+        "label": "博洛拉达乡社区戒毒（康复）工作站",
+        "value": 974,
+        "children": [{
+            "label": "博洛拉达乡",
+            "value": 975
+        }]
+    }, {
+        "label": "贺波洛乡社区戒毒（康复）工作站",
+        "value": 976,
+        "children": [{
+            "label": "贺波洛乡",
+            "value": 977
+        }]
+    }, {
+        "label": "且托乡社区戒毒（康复）工作站",
+        "value": 978,
+        "children": [{
+            "label": "且托乡",
+            "value": 979
+        }]
+    }, {
+        "label": "则约乡社区戒毒（康复）工作站",
+        "value": 980,
+        "children": [{
+            "label": "则约乡",
+            "value": 981
+        }]
+    }, {
+        "label": "拉克乡社区戒毒（康复）工作站",
+        "value": 982,
+        "children": [{
+            "label": "拉克乡",
+            "value": 983
+        }]
+    }, {
+        "label": "沙马拉达乡社区戒毒（康复）工作站",
+        "value": 984,
+        "children": [{
+            "label": "沙马拉达乡",
+            "value": 985
+        }]
+    }, {
+        "label": "两河口镇社区戒毒（康复）工作站",
+        "value": 986,
+        "children": [{
+            "label": "两河口镇",
+            "value": 987
+        }]
+    }, {
+        "label": "巴久乡社区戒毒（康复）工作站",
+        "value": 988,
+        "children": [{
+            "label": "巴久乡",
+            "value": 989
+        }]
+    }, {
+        "label": "洛莫乡社区戒毒（康复）工作站",
+        "value": 990,
+        "children": [{
+            "label": "洛莫乡",
+            "value": 991
+        }]
+    }, {
+        "label": "热柯依达乡社区戒毒（康复）工作站",
+        "value": 992,
+        "children": [{
+            "label": "热柯依达乡",
+            "value": 993
+        }]
+    }, {
+        "label": "额尼乡社区戒毒（康复）工作站",
+        "value": 994,
+        "children": [{
+            "label": "额尼乡",
+            "value": 995
+        }]
+    }, {
+        "label": "洛哈镇社区戒毒（康复）工作站",
+        "value": 996,
+        "children": [{
+            "label": "洛哈镇",
+            "value": 997
+        }]
+    }, {
+        "label": "依洛乡社区戒毒（康复）工作站",
+        "value": 998,
+        "children": [{
+            "label": "依洛乡",
+            "value": 999
+        }]
+    }, {
+        "label": "米市镇社区戒毒（康复）工作站",
+        "value": 1000,
+        "children": [{
+            "label": "米市镇",
+            "value": 1001
+        }]
+    }, {
+        "label": "北山乡社区戒毒（康复）工作站",
+        "value": 1002,
+        "children": [{
+            "label": "北山乡",
+            "value": 1003
+        }]
+    }, {
+        "label": "西河乡社区戒毒（康复）工作站",
+        "value": 1004,
+        "children": [{
+            "label": "西河乡",
+            "value": 1005
+        }]
+    }, {
+        "label": "红莫镇社区戒毒（康复）工作站",
+        "value": 1006,
+        "children": [{
+            "label": "红莫镇",
+            "value": 1007
+        }]
+    }, {
+        "label": "冕山镇社区戒毒（康复）工作站",
+        "value": 1008,
+        "children": [{
+            "label": "冕山镇",
+            "value": 1009
+        }]
+    }, {
+        "label": "光明镇社区戒毒（康复）工作站",
+        "value": 1010,
+        "children": [{
+            "label": "光明镇",
+            "value": 1011
+        }]
+    }, {
+        "label": "李子乡社区戒毒（康复）工作站",
+        "value": 1012,
+        "children": [{
+            "label": "李子乡",
+            "value": 1013
+        }]
+    }, {
+        "label": "鲁基乡社区戒毒（康复）工作站",
+        "value": 1014,
+        "children": [{
+            "label": "鲁基乡",
+            "value": 1015
+        }]
+    }]
+}, {
+    "label": "昭觉县",
+    "value": 1016,
+    "children": [{
+        "label": "新城镇社区戒毒（康复）工作站",
+        "value": 1017,
+        "children": [{
+            "label": "新城镇",
+            "value": 1018
+        }]
+    }, {
+        "label": "竹核乡社区戒毒（康复）工作站",
+        "value": 1019,
+        "children": [{
+            "label": "竹核乡",
+            "value": 1020
+        }]
+    }, {
+        "label": "城北乡社区戒毒（康复）工作站",
+        "value": 1021,
+        "children": [{
+            "label": "城北乡",
+            "value": 1022
+        }]
+    }, {
+        "label": "阿并洛古乡社区戒毒（康复）工作站",
+        "value": 1023,
+        "children": [{
+            "label": "阿并洛古乡",
+            "value": 1024
+        }]
+    }, {
+        "label": "四开乡社区戒毒（康复）工作站",
+        "value": 1025,
+        "children": [{
+            "label": "四开乡",
+            "value": 1026
+        }]
+    }, {
+        "label": "地莫乡社区戒毒（康复）工作站",
+        "value": 1027,
+        "children": [{
+            "label": "地莫乡",
+            "value": 1028
+        }]
+    }, {
+        "label": "庆恒乡社区戒毒（康复）工作站",
+        "value": 1029,
+        "children": [{
+            "label": "庆恒乡",
+            "value": 1030
+        }]
+    }, {
+        "label": "齿可波西乡社区戒毒（康复）工作站",
+        "value": 1031,
+        "children": [{
+            "label": "齿可波西乡",
+            "value": 1032
+        }]
+    }, {
+        "label": "谷曲乡社区戒毒（康复）工作站",
+        "value": 1033,
+        "children": [{
+            "label": "谷曲乡",
+            "value": 1034
+        }]
+    }, {
+        "label": "特布洛乡社区戒毒（康复）工作站",
+        "value": 1035,
+        "children": [{
+            "label": "特布洛乡",
+            "value": 1036
+        }]
+    }, {
+        "label": "日哈乡社区戒毒（康复）工作站",
+        "value": 1037,
+        "children": [{
+            "label": "日哈乡",
+            "value": 1038
+        }]
+    }, {
+        "label": "大坝乡社区戒毒（康复）工作站",
+        "value": 1039,
+        "children": [{
+            "label": "大坝乡",
+            "value": 1040
+        }]
+    }, {
+        "label": "塘且乡社区戒毒（康复）工作站",
+        "value": 1041,
+        "children": [{
+            "label": "塘且乡",
+            "value": 1042
+        }]
+    }, {
+        "label": "库依乡社区戒毒（康复）工作站",
+        "value": 1043,
+        "children": [{
+            "label": "库依乡",
+            "value": 1044
+        }]
+    }, {
+        "label": "久铁洛古乡社区戒毒（康复）工作站",
+        "value": 1045,
+        "children": [{
+            "label": "久铁洛古乡",
+            "value": 1046
+        }]
+    }, {
+        "label": "且莫乡社区戒毒（康复）工作站",
+        "value": 1047,
+        "children": [{
+            "label": "且莫乡",
+            "value": 1048
+        }]
+    }, {
+        "label": "哈甘乡社区戒毒（康复）工作站",
+        "value": 1049,
+        "children": [{
+            "label": "哈甘乡",
+            "value": 1050
+        }]
+    }, {
+        "label": "比尔乡社区戒毒（康复）工作站",
+        "value": 1051,
+        "children": [{
+            "label": "比尔乡",
+            "value": 1052
+        }]
+    }, {
+        "label": "博洛乡社区戒毒（康复）工作站",
+        "value": 1053,
+        "children": [{
+            "label": "博洛乡",
+            "value": 1054
+        }]
+    }, {
+        "label": "拉一木乡社区戒毒（康复）工作站",
+        "value": 1055,
+        "children": [{
+            "label": "拉一木乡",
+            "value": 1056
+        }]
+    }, {
+        "label": "柳且乡社区戒毒（康复）工作站",
+        "value": 1057,
+        "children": [{
+            "label": "柳且乡",
+            "value": 1058
+        }]
+    }, {
+        "label": "特口甲谷乡社区戒毒（康复）工作站",
+        "value": 1059,
+        "children": [{
+            "label": "特口甲谷乡",
+            "value": 1060
+        }]
+    }, {
+        "label": "美甘乡社区戒毒（康复）工作站",
+        "value": 1061,
+        "children": [{
+            "label": "美甘乡",
+            "value": 1062
+        }]
+    }, {
+        "label": "洒拉地坡乡社区戒毒（康复）工作站",
+        "value": 1063,
+        "children": [{
+            "label": "洒拉地坡乡",
+            "value": 1064
+        }]
+    }, {
+        "label": "达洛乡社区戒毒（康复）工作站",
+        "value": 1065,
+        "children": [{
+            "label": "达洛乡",
+            "value": 1066
+        }]
+    }, {
+        "label": "格五乡社区戒毒（康复）工作站",
+        "value": 1067,
+        "children": [{
+            "label": "格五乡",
+            "value": 1068
+        }]
+    }, {
+        "label": "解放乡社区戒毒（康复）工作站",
+        "value": 1069,
+        "children": [{
+            "label": "解放乡",
+            "value": 1070
+        }, {
+            "label": "尼地乡",
+            "value": 1071
+        }, {
+            "label": "碗厂乡",
+            "value": 1072
+        }]
+    }, {
+        "label": "龙恩乡社区戒毒（康复）工作站",
+        "value": 1073,
+        "children": [{
+            "label": "龙恩乡",
+            "value": 1074
+        }]
+    }, {
+        "label": "则普乡社区戒毒（康复）工作站",
+        "value": 1075,
+        "children": [{
+            "label": "则普乡",
+            "value": 1076
+        }]
+    }, {
+        "label": "甘多洛古乡社区戒毒（康复）工作站",
+        "value": 1077,
+        "children": [{
+            "label": "甘多洛古乡",
+            "value": 1078
+        }]
+    }, {
+        "label": "补约乡社区戒毒（康复）工作站",
+        "value": 1079,
+        "children": [{
+            "label": "补约乡",
+            "value": 1080
+        }]
+    }, {
+        "label": "龙沟乡社区戒毒（康复）工作站",
+        "value": 1081,
+        "children": [{
+            "label": "龙沟乡",
+            "value": 1082
+        }]
+    }, {
+        "label": "永乐乡社区戒毒（康复）工作站",
+        "value": 1083,
+        "children": [{
+            "label": "永乐乡",
+            "value": 1084
+        }]
+    }, {
+        "label": "三岔河乡社区戒毒（康复）工作站",
+        "value": 1085,
+        "children": [{
+            "label": "三岔河乡",
+            "value": 1086
+        }]
+    }, {
+        "label": "支尔莫乡社区戒毒（康复）工作站",
+        "value": 1087,
+        "children": [{
+            "label": "支尔莫乡",
+            "value": 1088
+        }]
+    }, {
+        "label": "色底乡社区戒毒（康复）工作站",
+        "value": 1089,
+        "children": [{
+            "label": "色底乡",
+            "value": 1090
+        }]
+    }, {
+        "label": "库莫乡社区戒毒（康复）工作站",
+        "value": 1091,
+        "children": [{
+            "label": "库莫乡",
+            "value": 1092
+        }]
+    }, {
+        "label": "金曲乡社区戒毒（康复）工作站",
+        "value": 1093,
+        "children": [{
+            "label": "金曲乡",
+            "value": 1094
+        }, {
+            "label": "宜牧地乡",
+            "value": 1095
+        }]
+    }, {
+        "label": "三岗乡社区戒毒（康复）工作站",
+        "value": 1096,
+        "children": [{
+            "label": "三岗乡",
+            "value": 1097
+        }]
+    }, {
+        "label": "树坪乡社区戒毒（康复）工作站",
+        "value": 1098,
+        "children": [{
+            "label": "树坪乡",
+            "value": 1099
+        }]
+    }, {
+        "label": "央摩租乡社区戒毒（康复）工作站",
+        "value": 1100,
+        "children": [{
+            "label": "央摩租乡",
+            "value": 1101
+        }, {
+            "label": "波洛乡",
+            "value": 1102
+        }]
+    }]
+}, {
+    "label": "绿色家园",
+    "value": 101600,
+    "children": [{
+        "label": "凉山州绿色家园",
+        "value": 101601,
+        "children": [{
+            "label": "语录塔社区",
+            "value": 101602
+        }]
+    }]
+}]

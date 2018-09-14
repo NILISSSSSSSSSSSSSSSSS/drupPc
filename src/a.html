@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var tab1=[{"id":"123","name":"小王","tit":"xias"},{"id":"456","name":"小黑","tit":"网格"},{"id":"789","name":"小米","tit":"恩恩飞"}]
+        var tab2=[{"id":"456","name":"小黑","tit":"网格"}]
+
+        function del(tabAll,tab){
+            var arrId=tab.map(value => value.id);
+           var newTab=tabAll.filter(function(value){
+             return !arrId.includes(value.id)
+          })
+          return newTab
+        }
+      
+        var newData=del(tab1,tab2)
+        console.log(newData)
+
+
+     
+    </script>
+</body>
+</html>
